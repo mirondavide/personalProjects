@@ -75,7 +75,6 @@ h1 {
 .demos a:hover {
     transform: scale(1.3);
 }
-
 .meteo img{
     width: 270px;
 }
@@ -91,7 +90,6 @@ h1 {
         max-width: 270px;
     }
 }
-
 @media (max-width: 768px) {
     .demos {
         flex-direction: column;
